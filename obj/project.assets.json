@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "/home/ec2-user/abc/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
       "projectPath": "/home/ec2-user/abc/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/home/ec2-user/.nuget/packages/",
       "outputPath": "/home/ec2-user/abc/HelloWorld/obj/",
-=======
-      "projectUniqueName": "/home/ec2-user/winterhelloworldWebApp/winterhelloworldWebApp.csproj",
-      "projectName": "winterhelloworldWebApp",
-      "projectPath": "/home/ec2-user/winterhelloworldWebApp/winterhelloworldWebApp.csproj",
-      "packagesPath": "/home/ec2-user/.nuget/packages/",
-      "outputPath": "/home/ec2-user/winterhelloworldWebApp/obj/",
->>>>>>> c1af0fe84698c66ac2f1165e2b018c00a0d19384
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ec2-user/.nuget/NuGet/NuGet.Config"

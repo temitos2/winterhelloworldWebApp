@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "CTp+Vcfda7+DmMCC58n4r9DMu+GMBoBtqn19QOuwnwCkAN8lL6LphkkqH2pbQUAjH9t3wuoHBGljdo4evnWwdQ==",
   "success": true,
   "projectFilePath": "/home/ec2-user/abc/HelloWorld/HelloWorld.csproj",
-=======
-  "dgSpecHash": "8/Q5HPWKTHAJNO15ET1uGxUhfZa5iEgvPoQeR/Z1WSZM+XMX+YObG9X84oBKinzNM9Q1HuRh0nxzR4edk7BDRQ==",
-  "success": true,
-  "projectFilePath": "/home/ec2-user/winterhelloworldWebApp/winterhelloworldWebApp.csproj",
->>>>>>> c1af0fe84698c66ac2f1165e2b018c00a0d19384
   "expectedPackageFiles": [],
   "logs": []
 }
